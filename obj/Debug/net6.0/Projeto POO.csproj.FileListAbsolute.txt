@@ -1,0 +1,15 @@
+C:\Users\Home\Desktop\Darlan\Projeto POO\bin\Debug\net6.0\Projeto POO.exe
+C:\Users\Home\Desktop\Darlan\Projeto POO\bin\Debug\net6.0\Projeto POO.deps.json
+C:\Users\Home\Desktop\Darlan\Projeto POO\bin\Debug\net6.0\Projeto POO.runtimeconfig.json
+C:\Users\Home\Desktop\Darlan\Projeto POO\bin\Debug\net6.0\Projeto POO.dll
+C:\Users\Home\Desktop\Darlan\Projeto POO\bin\Debug\net6.0\Projeto POO.pdb
+C:\Users\Home\Desktop\Darlan\Projeto POO\obj\Debug\net6.0\Projeto POO.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\Darlan\Projeto POO\obj\Debug\net6.0\Projeto POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\Darlan\Projeto POO\obj\Debug\net6.0\Projeto POO.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\Darlan\Projeto POO\obj\Debug\net6.0\Projeto POO.AssemblyInfo.cs
+C:\Users\Home\Desktop\Darlan\Projeto POO\obj\Debug\net6.0\Projeto POO.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Darlan\Projeto POO\obj\Debug\net6.0\Projeto POO.dll
+C:\Users\Home\Desktop\Darlan\Projeto POO\obj\Debug\net6.0\refint\Projeto POO.dll
+C:\Users\Home\Desktop\Darlan\Projeto POO\obj\Debug\net6.0\Projeto POO.pdb
+C:\Users\Home\Desktop\Darlan\Projeto POO\obj\Debug\net6.0\Projeto POO.genruntimeconfig.cache
+C:\Users\Home\Desktop\Darlan\Projeto POO\obj\Debug\net6.0\ref\Projeto POO.dll
