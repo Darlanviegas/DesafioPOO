@@ -1,6 +1,6 @@
-namespace Projeto_POO.Models
+namespace Projeto_POO.Models.Exercicio3
 {
-    public class Pessoa
+     public class Pessoa
     {
         private string Nome { get; set; }
         private string Endereco { get; set; }
